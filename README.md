@@ -1,8 +1,9 @@
 # YouTube Data Analysis
 The goal of this repo is to extract information from the YouTube takeout.
 
-## [Demo output](watch-history.html)
-Click to interact with a demo.
+## Demo output
+[Click here](viz/watch-history.html) to have an interactive look at the data
+![Image](viz/watch-history.png)
 
 ## How to use
 1. Download your YouTube takeout from [here](https://takeout.google.com/settings/takeout)
